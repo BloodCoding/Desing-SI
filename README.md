@@ -1,6 +1,5 @@
 # Desing-SI #
-
-# Miembros del Equipo #
+*Miembros del Equipo*
 
 - Eugenio Juarez
 - Edgar Pérez
