@@ -1,0 +1,8 @@
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\ControladoresApp\obj\Debug\ControladoresApp.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\ControladoresApp\bin\Debug\ControladoresApp.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\ControladoresApp\bin\Debug\ControladoresApp.pdb
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\ControladoresApp\bin\Debug\MJFramework.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\ControladoresApp\bin\Debug\MySql.Data.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\ControladoresApp\bin\Debug\MJFramework.pdb
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\ControladoresApp\obj\Debug\ControladoresApp.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\ControladoresApp\obj\Debug\ControladoresApp.pdb

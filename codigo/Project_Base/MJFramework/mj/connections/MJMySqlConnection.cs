@@ -24,13 +24,13 @@ namespace MJFramework.mj.connections
         {
             try
             {
-                ConnectionStringLocal = ConfigurationManager.ConnectionStrings["LaboratorioClinico.Properties.Settings.ServerDb"].ConnectionString;
+                ConnectionStringLocal = ConfigurationManager.ConnectionStrings["PuntoVenta"].ConnectionString;
                 //MySqlConnection SQLConexion = default(MySqlConnection);                
             }
             catch (Exception e)
             {
                 Configuration config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
-                ConnectionStringLocal = config.ConnectionStrings.ConnectionStrings["LaboratorioClinico.Properties.Settings.ServerDb"].ConnectionString.ToString();
+                ConnectionStringLocal = config.ConnectionStrings.ConnectionStrings["PuntoVenta"].ConnectionString.ToString();
                 Console.WriteLine(e.ToString());
             }
             SQLConexion = new MySqlConnection(ConnectionStringLocal);

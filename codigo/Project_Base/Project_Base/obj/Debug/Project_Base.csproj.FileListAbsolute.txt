@@ -6,3 +6,17 @@ D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.Properties.Resou
 D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.csproj.GenerateResource.Cache
 D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.exe
 D:\development\Project_Base\Project_Base\obj\Debug\Project_Base.pdb
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\bin\Debug\Project_Base.exe.config
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\bin\Debug\Project_Base.exe
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\bin\Debug\Project_Base.pdb
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\obj\Debug\Project_Base.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\obj\Debug\Project_Base.Properties.Resources.resources
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\obj\Debug\Project_Base.csproj.GenerateResource.Cache
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\obj\Debug\Project_Base.exe
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\obj\Debug\Project_Base.pdb
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\obj\Debug\Project_Base.MainWindow.resources
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\bin\Debug\ControladoresApp.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\bin\Debug\MJFramework.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\bin\Debug\MySql.Data.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\bin\Debug\ControladoresApp.pdb
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\Project_Base\bin\Debug\MJFramework.pdb

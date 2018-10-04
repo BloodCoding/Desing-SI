@@ -1,1 +1,8 @@
 D:\development\Project_Base\MJFramework\obj\Debug\MJFramework.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\MJFramework\obj\Debug\MJFramework.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\MJFramework\bin\Debug\MJFramework.dll.config
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\MJFramework\bin\Debug\MJFramework.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\MJFramework\bin\Debug\MJFramework.pdb
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\MJFramework\bin\Debug\MySql.Data.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\MJFramework\obj\Debug\MJFramework.dll
+C:\Users\eduar\Documents\GitHub\Desing-SI\codigo\Project_Base\MJFramework\obj\Debug\MJFramework.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ControladoresApp.Pruebas;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,13 @@ namespace Project_Base
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string clave = Project_Base.Properties.Settings.Default.key_encrypt;
+            PruebasUsuarios prueba = new PruebasUsuarios();
+            prueba.agregarUsuario(clave);
         }
     }
 }
