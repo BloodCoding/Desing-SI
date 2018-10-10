@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="key_encrypt" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Here is value key </Value>
+      <Value Profile="(Default)">Franklin2017</Value>
     </Setting>
     <Setting Name="Setting" Type="(Connection string)" Scope="Application">
       <DesignTimeValue Profile="(Default)" />

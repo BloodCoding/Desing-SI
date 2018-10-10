@@ -1,4 +1,4 @@
-﻿using ControladoresApp.Pruebas;
+﻿using BackenApp.Pruebas;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -18,11 +18,23 @@ namespace Project_Base
             InitializeComponent();
         }
 
+        private void MainWindow_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             string clave = Project_Base.Properties.Settings.Default.key_encrypt;
-            PruebasUsuarios prueba = new PruebasUsuarios();
-            prueba.agregarUsuario(clave);
+            PruebaUsuarios prueba = new PruebaUsuarios();
+            prueba.mostrardatos(0);
+            dataGridView1.DataSource = prueba.datosParaGrid();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            PruebaUsuarios prueba = new PruebaUsuarios();
+            dataGridView1.DataSource = prueba.filtroParaGrid(textBox1.Text);
         }
     }
 }

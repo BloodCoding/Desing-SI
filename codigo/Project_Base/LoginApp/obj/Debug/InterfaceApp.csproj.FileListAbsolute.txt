@@ -1,0 +1,11 @@
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\InterfaceApp.csprojResolveAssemblyReference.cache
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.LoginScreen.resources
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\InterfaceApp.csproj.GenerateResource.Cache
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.Interface.Inicio.resources
+C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.Interface.Productos.resources

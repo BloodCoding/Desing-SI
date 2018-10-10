@@ -25,7 +25,7 @@ namespace Project_Base.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Here is value key ")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Franklin2017")]
         public string key_encrypt {
             get {
                 return ((string)(this["key_encrypt"]));

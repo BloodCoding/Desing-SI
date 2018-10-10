@@ -1,0 +1,15 @@
+C:\Users\falco\Desktop\Libros\5to Semestre\Diseño e Implementación de SI\Desing-SI-master\codigo\Project_Base\BackenApp\obj\Debug\BackenApp.csprojResolveAssemblyReference.cache
+C:\Users\falco\Desktop\Libros\5to Semestre\Diseño e Implementación de SI\Desing-SI-master\codigo\Project_Base\BackenApp\bin\Debug\BackenApp.dll
+C:\Users\falco\Desktop\Libros\5to Semestre\Diseño e Implementación de SI\Desing-SI-master\codigo\Project_Base\BackenApp\bin\Debug\BackenApp.pdb
+C:\Users\falco\Desktop\Libros\5to Semestre\Diseño e Implementación de SI\Desing-SI-master\codigo\Project_Base\BackenApp\bin\Debug\MJFramework.dll
+C:\Users\falco\Desktop\Libros\5to Semestre\Diseño e Implementación de SI\Desing-SI-master\codigo\Project_Base\BackenApp\bin\Debug\MySql.Data.dll
+C:\Users\falco\Desktop\Libros\5to Semestre\Diseño e Implementación de SI\Desing-SI-master\codigo\Project_Base\BackenApp\bin\Debug\MJFramework.pdb
+C:\Users\falco\Desktop\Libros\5to Semestre\Diseño e Implementación de SI\Desing-SI-master\codigo\Project_Base\BackenApp\obj\Debug\BackenApp.dll
+C:\Users\falco\Desktop\Libros\5to Semestre\Diseño e Implementación de SI\Desing-SI-master\codigo\Project_Base\BackenApp\obj\Debug\BackenApp.pdb
+C:\Users\eug_l\Desktop\Project_Base\BackenApp\bin\Debug\BackenApp.dll
+C:\Users\eug_l\Desktop\Project_Base\BackenApp\bin\Debug\BackenApp.pdb
+C:\Users\eug_l\Desktop\Project_Base\BackenApp\bin\Debug\MJFramework.dll
+C:\Users\eug_l\Desktop\Project_Base\BackenApp\bin\Debug\MJFramework.pdb
+C:\Users\eug_l\Desktop\Project_Base\BackenApp\obj\Debug\BackenApp.csprojResolveAssemblyReference.cache
+C:\Users\eug_l\Desktop\Project_Base\BackenApp\obj\Debug\BackenApp.dll
+C:\Users\eug_l\Desktop\Project_Base\BackenApp\obj\Debug\BackenApp.pdb
