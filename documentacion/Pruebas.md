@@ -21,3 +21,13 @@
 5. El filtro debe permitir encontrar usuarios de manera rapida y eficiente.
 6. Al darle click a algún usuario se debe poder realizar cualquier operación al dar click a un botón.
 7. Debe notificar si existe algún error al momento de realizar una operación.
+
+## Bloque Productos
+### Operaciones con Productos
+#### Consideraciones
+1. 
+
+## Bloque Cajas
+### Operaciones con Cajas
+#### Consideraciones
+1. 
