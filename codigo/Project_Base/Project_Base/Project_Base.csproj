@@ -53,6 +53,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="util\PrintTicketLC.cs" />
+    <Compile Include="util\Ticket.cs" />
     <Compile Include="VerUsuario.cs">
       <SubType>Form</SubType>
     </Compile>

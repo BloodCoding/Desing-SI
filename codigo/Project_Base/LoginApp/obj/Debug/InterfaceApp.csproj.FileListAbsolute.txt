@@ -9,3 +9,6 @@ C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.exe
 C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.pdb
 C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.Interface.Inicio.resources
 C:\Users\eug_l\Desktop\Project_Base\LoginApp\obj\Debug\LoginApp.Interface.Productos.resources
+C:\Users\DevTequilaUser\Documents\GitHub\Desing-SI\codigo\Project_Base\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\DevTequilaUser\Documents\GitHub\Desing-SI\codigo\Project_Base\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\DevTequilaUser\Documents\GitHub\Desing-SI\codigo\Project_Base\LoginApp\obj\Debug\LoginApp.pdb
